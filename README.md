@@ -47,22 +47,6 @@ The notebook operates as a guided analytics pipeline:
 ---
 
 ## 🧠 Architecture
-User Input (/commands)
-        ↓
-Command Router (run_command)
-        ↓
--------------------------------------
-| Python Layer (Computation Engine) |
-| - Data cleaning                   |
-| - EDA                            |
-| - KPI generation                 |
--------------------------------------
-        ↓
--------------------------------------
-| Claude Layer (Intelligence)      |
-| - Goal interpretation            |
-| - Executive summary              |
-| - Report generation              |
--------------------------------------
-        ↓
-Final Output (Insights + Reports)
+<img width="367" height="394" alt="image" src="https://github.com/user-attachments/assets/0111869f-6bec-48ef-a45e-6ba6872e5201" />
+<img width="367" height="394" alt="image" src="https://github.com/user-attachments/assets/367220e5-4a44-4617-a9ac-e52d6194158b" />
+
